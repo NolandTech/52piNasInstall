@@ -10,13 +10,13 @@ https://www.raspberrypi.com/software/   ===> Raspberry Pi<br /><br />
 ___
 <ul>
   <h2>Enable I2C (DietPi Users can Skip this)</h2>
-      <li>
+<li>
 To Enable I2C in RaspberryPi OS, in Terminal type:
 
     sudo raspi-config
-		
+</li>	
 <br />
-</li>
+
 <li>
 Next go to Interface options. <---Here you will find the option to enable I2C. <br />
 !You may do this at any time, before or after running the install script. <br /><br />
@@ -56,8 +56,8 @@ Replace the end of the line "sys_info_extended.py" with another script file from
 eg. 'python3 /usr/local/luma.examples/examples/clock.py &'  <br /><br />
 <img src="https://wiki.52pi.com/images/9/93/Changesystemdservice3.png" width="600" height="200" alt="example">
 </li>
-<li>
 <br /><br />
+<li>
 To find the list of scripts to use with the display, in Terminal type:
 
     cd /usr/local/luma.examples/examples/
