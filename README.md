@@ -24,10 +24,9 @@ Next go to Interface options. <---Here you will find the option to enable I2C. <
   
   ___
   
-<li>
   <h2>Install Mini Nas Tower Display & Fan</h2>
 To install Mini Nas Tower script type:
-
+<li>
     cd
     sudo git clone https://github.com/NolandTech/pinas
     cd pinas
@@ -42,8 +41,9 @@ After running the install script your Raspberry Pi will reboot. Everything shoul
 ___
   
 </li>
-<li>
+
   <H2>Change Display Script</H2>
+<li>
 To change the display script, in Terminal type:
 
     sudo nano /lib/systemd/system/minitower_oled.service
@@ -56,7 +56,7 @@ Replace the end of the line "sys_info_extended.py" with another script file from
 eg. 'python3 /usr/local/luma.examples/examples/clock.py &'  <br /><br />
 <img src="https://wiki.52pi.com/images/9/93/Changesystemdservice3.png" width="600" height="200" alt="example">
 </li>
-</li>
+<li>
 <br /><br />
 To find the list of scripts to use with the display, in Terminal type:
 
