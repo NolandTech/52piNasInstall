@@ -25,8 +25,8 @@ Next go to Interface options. <---Here you will find the option to enable I2C. <
   ___
   
   <h2>Install Mini Nas Tower Display & Fan</h2>
-To install Mini Nas Tower script type:
 <li>
+To install Mini Nas Tower script type:
     cd
     sudo git clone https://github.com/NolandTech/pinas
     cd pinas
