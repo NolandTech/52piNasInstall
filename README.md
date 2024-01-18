@@ -1,4 +1,4 @@
-<h1>52Pi Mini Nas Tower one script installation for RPi 4</h1> 
+<h1>52Pi Mini Nas Tower one script installation for RPi 3,3b+,4b</h1> 
 <h3>This script will install and enable all requirements for the 52Pi Nas mini tower display, and fan speed control, On the Raspberry Pi.</h3> 
 <sup>Tested on DietPi OS, and Raspberry Pi OS (see known issues below).</sup><br /><br />
 https://wiki.52pi.com/ ===> Mini Nas Tower<br /> 
